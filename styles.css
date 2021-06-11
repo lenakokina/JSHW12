@@ -1,0 +1,22 @@
+body {
+    background-color:beige;
+}
+
+
+ .todo-item {
+    padding: 3px;
+    margin: 2px;
+    border: 1px solid black;
+    cursor: pointer;
+    background-color: khaki;
+    }
+
+
+ .todo-item.done {
+ background-color: lawngreen;
+    }
+
+ .delete-btn {
+  float: right;
+   }
+
